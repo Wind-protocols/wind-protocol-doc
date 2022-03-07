@@ -19,7 +19,7 @@ Telegram僅用來作為宣發。
 
 [twitter](https://twitter.com/windmetaverse)
 
-微信公眾號搜索：风之宇宙
+微信公眾號搜索：风元宇宙
 
 ## 如何參與社區活動？
 請加入我們的[discord](https://discord.gg/UfwjZHjyYY) ，我們將會不定期的舉行各種活動。

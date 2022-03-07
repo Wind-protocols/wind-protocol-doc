@@ -5,7 +5,7 @@ sidebar_label: 錢包入門
 slug: /Wallet
 ---
 
-目前風之宇宙支持Phantom、Solflare、Sollet、Sollet（Extension）四種錢包,接下來將以Phantom為例，展示如何安裝並創建錢包。
+目前風元宇宙支持Phantom、Solflare、Sollet、Sollet（Extension）四種錢包,接下來將以Phantom為例，展示如何安裝並創建錢包。
 
 ## Phantom錢包實例
 ### 下載錢包插件

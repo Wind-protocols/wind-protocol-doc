@@ -16,7 +16,7 @@ slug: /Community-Question
 
 [twitter](https://twitter.com/windmetaverse)
 
-微信公众号搜索：风之宇宙
+微信公众号搜索：风元宇宙
 
 ## 如何参与社区活动？
 请加入我们的[discord](https://discord.gg/WYnUS8Dw) ，我们将会不定期的举行各种活动。

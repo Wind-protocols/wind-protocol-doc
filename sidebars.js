@@ -2,9 +2,9 @@ module.exports = {
   someSidebar: [
     {
        生态系统: [
-        {Meta: ["ES-concept",  "Legacy-System", "WindmetaversePC", "Time-System",],},
+        {Meta: ["Meta"],},
         {EGO:["EGO",]},
-        {ES:["ES",],},
+        {ES:["ES-concept",  "Legacy-System",  "Time-System",],},
          "WIND-AI",
          "Nvwa-Oracle",
          "Entrance-V1",
