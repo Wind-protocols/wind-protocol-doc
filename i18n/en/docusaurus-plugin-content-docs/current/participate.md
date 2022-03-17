@@ -1,7 +1,7 @@
 ---
 id: Participate
-title: Account Settings
-sidebar_label: Account Settings
+title: 帐户设置
+sidebar_label: 帐户设置
 slug: /Participate
 ---
 ## 1，点击[官网](https://www.windmetaverse.com/)右上角“LANGUAGE”切换为中文
