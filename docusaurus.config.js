@@ -1,12 +1,12 @@
 module.exports = {
-  title: "windmetaverse",
-  tagline: " A metaverse on Solana",
+  title: "Wind-protocol",
+  tagline: "The metaverse layer of Blockchain",
   url: "https://www.windprotocol.org/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/wind.png",
-  organizationName: "biveivk", // Usually your GitHub org/user name.
+  favicon: "img/protocollogo.org",
+  organizationName: "Wind-protocol", // Usually your GitHub org/user name.
   projectName: "windmetaverse-docs", // Usually your repo name.
   i18n: {
     defaultLocale: 'zh-cn',
@@ -19,7 +19,7 @@ module.exports = {
       title: "Windmetaverse",
       logo: {
         alt: "windmetaverse logo",
-        src: "img/wind.png",
+        src: "img/protocollogo.svg",
       },items: [
         {
           type: 'localeDropdown',

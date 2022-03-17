@@ -1,10 +1,10 @@
 {
   "title": {
-    "message": "风之协议",
+    "message": "Wind",
     "description": "The title in the navbar"
   },
   "item.label.website": {
-    "message": "官网",
+    "message": "Website",
     "description": "Navbar item with metaverse"
   }
 }
