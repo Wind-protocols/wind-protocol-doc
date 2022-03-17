@@ -1,7 +1,7 @@
 ---
 id: Map
-title: 路线图
-sidebar_label: 路线图
+title: Road Map
+sidebar_label: Road Map
 slug: /Map
 ---
 ### GENESIS 创世纪2021 Q4 - 2022 Q1

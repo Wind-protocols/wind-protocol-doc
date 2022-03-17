@@ -1,26 +1,24 @@
 ---
 id: ES-concept
-title: 本我化身的设想
-sidebar_label: 本我化身的设想
+title: ES-concept
+sidebar_label: ES-concept
 slug: /
 ---
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKAl09h8cF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-## 本我與風元宇宙的關係
+## The relationship between the ES and Windmetaverse
 
-本我是參與風元宇宙的一种最普通的通證，你在風元宇宙中的身份完全獨立於物理世界，本我可以用各种的形式来丰富你的体验。Wind希望以此讓風元宇宙更真實的反應現實世界的有限自由意識。 
+ES is the most common token for participating in the Windmetaverse. Your ES in the Windmetaverse is completely independent of the physical world. The E can enrich your experience in various forms. Wind hopes to make Windmetaverse more realistically reflect the limited freedom consciousness of the real world.
 
-## 本我化身
+## The background setting of the avatar
 
-## 背景設定
-
-來到风元宇宙，你任然沒有權力去決定你的化身在中原世界的固有歷史/數據。 所有風元宇宙創世紀化身的年齡，血脈，甚至是名字都是已經被風的預言機決定。然而有趣的是，在我們的物理宇宙中人類文明也是如此，嬰兒沒有選擇的權力，每一個人類都像是一個化身，意志/靈魂在沒有選擇的權力下進入了物理世界的化身。 對於參加風元宇宙創世紀的人們來說，最大的自由無非是在偽隨機的方式下找到一個自己喜歡的化身，來參與化身們的元宇宙。 
+When you come to the Central Plains, you still have no right to determine the inherent history/data of your avatar in the Central Plains world. The age, lineage, and even names of all the avatar of Genesis of windmetaverse have been determined by oracle. However, it is interesting that the same is true of human civilization in our physical universe. Infants have no power to choose. Every human being is like an incarnation, and the will/soul enters the incarnation of the physical world without the power of choice. For those who participated in the creation of the windmetaverse, the greatest freedom is nothing more than finding a favorite avatar in a pseudo-random way to participate in the metaverse.
 
 
 
-## 成熟過程和繁衍
-本我會隨之時間逐漸成熟，衰敗。這個過程是不可以逆轉和改變的。本我的化身年齡超過20歲，即可與不同的虛擬化身繁衍後代。 後代要到 18 歲才會上鏈，它將作為 NPC 數據存在於 WIND 預言機中。 它將在 WIND 神諭系統中，一旦達到年齡，化身將成為可玩角色，並且有50%的機會出現在母親或父親的地址中。不管怎樣，成熟的化身要獲得有限的意志，就需要一個真正的人與之交互。 
+## maturation and reproduction
+The ES will gradually mature and decay over time. This process cannot be reversed or changed. If your avatar is over 20 years old, you can breed with different avatars. The offspring will not be on the chain until the age of 18, and it will exist in the WIND oracle as NPC data. It will be in the WIND oracle, once reaching age, the avatar will become a playable character and has a 50% chance of appearing in either the mother or father's address. Either way, for a mature avatar to acquire limited will, a real human being is required to interact with it.
 
-本我作為一個種類的鏈上物質/化身是wind參考人類的物理社會和基於我們的時間和物質而參考。 本我的DNA元數據会根據其父母系的元數據來決定的。後代的顯性血脈會根據女方的血脈來決定，小孩的名字會被化身的自由意志/元數據所決定，來最大程度保留這個元宇宙的特殊性和物理社會的距離。同時，在化身未滿18歲時，化身的數據只會存在於元宇宙中和風的預言機上，而不會成為一個可以控制的鏈上資產。化身滿了18歲後，他們的靈魂可以被父母上傳到風靈殿，來尋找化身的靈魂。
+The ES as a kind of on-chain matter/avatar is wind reference to the physical society of humans and based on our time and matter. My DNA metadata is determined based on its parental metadata. The dominant bloodline of the offspring will be determined according to the bloodline of the woman, and the name of the child will be determined by the free will/metadata of the incarnation, so as to preserve the particularity of this metaverse and the physical and social distance to the greatest extent. At the same time, when the avatar is under the age of 18, the avatar's data will only exist on the oracle machine of the wind in the metaverse, and will not become a controllable on-chain asset. After the incarnation turns 18, their souls can be uploaded to the Wind Spirit Temple by their parents to find the incarnation's soul.

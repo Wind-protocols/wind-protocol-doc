@@ -4,11 +4,10 @@ title: 时间系统
 sidebar_label: 时间系统
 slug: /Time-System
 ---
-时间/历史证明利用 Solana 的优势
+Proof of Time/history utilize Solana’s advantage
 
-风元宇宙将实时模拟时间，并具有自己的历史和时间节奏，随着时间的推移每个角色都会相应地老去。 风元宇宙的时间和实时的计时将在 2022 年第四季度发生。
+The Wind metaverse will simulate in real-time and have its own pace of time, history and each character will be aging accordingly etc. The chrononization of WIND metaverse time and real time will happen in the Q4 of 2022.
 
-2023 01.01 = 风元宇宙 1 01.01
+2023 01.01 = WIND Year O1
 
-地球一年等于风元宇宙10年
-在风元宇宙中，季节周期为5年，春夏秋冬分别持续 1.25 年。
+1 earth year = 10 WIND year In the WIND world, summer, winter, spring, Autumn last 1.25 WIND years. Each season cycle is 5 year.

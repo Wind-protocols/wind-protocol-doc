@@ -1,7 +1,7 @@
 ---
 id: Game-Question
-title: 关于游戏
-sidebar_label: 关于游戏
+title: Game Question
+sidebar_label: Game Question
 slug: /Game-Question
 ---
 + [什么是化身？](#什么是化身？)

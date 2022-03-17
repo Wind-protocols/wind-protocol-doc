@@ -6,7 +6,7 @@ slug: /Team
 ---
 
 ## Mudeng Lab
-Mudeng Lab是Jacheng创立的一个全球化团队。团队成员来自于不同的国家和地区。
+Mudeng Lab is a global team founded by Jacheng. The team members come from different countries and regions.
 
-###  创始人：Jacheng
-###  团队成员目前匿名
+###  Founder: Jacheng
+###  Team members are currently anonymous

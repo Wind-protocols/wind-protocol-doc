@@ -1,6 +1,6 @@
 ---
 id: Avatar-Protocol
-title: Avatar 协议
-sidebar_label: Avatar 协议
+title: Avatar-Protocol
+sidebar_label: Avatar-Protocol
 slug: /Avatar-Protocol
 ---

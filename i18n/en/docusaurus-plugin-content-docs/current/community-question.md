@@ -1,7 +1,7 @@
 ---
 id: Community-Question
-title: 关于社区
-sidebar_label: 关于社区
+title: Community Question
+sidebar_label: Community Question
 slug: /Community-Question
 ---
 + [如何联系我们？](#如何联系我们？)

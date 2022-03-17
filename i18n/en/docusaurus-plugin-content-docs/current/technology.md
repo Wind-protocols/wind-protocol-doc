@@ -1,17 +1,17 @@
 ---
 id: Technology
-title: 技术思考
-sidebar_label: 技术思考
+title: Technology
+sidebar_label: Technology
 slug: /Technology
 ---
-## 人工智能驱动的元宇宙
-元宇宙的化身具有有限的自由意志，使用 GPT-3模仿人类。因此，玩家和化身的代理有限。当玩家登录风元宇宙时，化身由玩家控制。然而，化身被视为与玩家分开的实体。当玩家根据他们的 AI 退出游戏时，它们也会产生影响。例如，阿凡达将决定他们后代的名字。Avatar 将有自己的逻辑，基于我们开发non-reactionary 和 freebound(unlimited) 内存模型。在风元宇宙中由 AI 生成的所有动作都会在 Metaverse 中产生真实的、不可逆转的后果。
+# AI-powered Metaverse
+Avatar of the Metaverse have limited free-will modelled after human use GPT-3. Hence there are Limited agency for Player and the Avatar. Avatars are controlled by the player while player login on the metaverse. However, Avatar are deemed as a separated entity than the player. They will have large impact when player log off the game based on their AI. E.g. Avatar’s will determine their offspring’s name. Avatar will have their own logics based on non-reactionary and freebound(unlimited) memory model developed by us. All actions generated from the AI in the metaverse have real, irreversable consequences in the Metaverse.
 
-## 区块链加密的虚拟世界
-为风元宇宙创建的虚拟世界，只有化身持有者才能访问。要登录风元宇宙，您需要使用我们的登录系统证明您对化身的所有权。
+# Virtual world encrypted by blockchain
+A virtual world created for Wind that can only be accessed by Wind Avatar holder. To login into the WIND metaverse, you need to prove your ownership of a Avatar by using our entrance system.
 
-## 传承系统
-化身将具有链上属性。他们的元数据会根据我们的女娲预言机进行更新，元数据也会储存在预言机里，目前我们仍在积极探索可能的最佳解决方案；链下元素可能取决于我们如何设置女娲寓言机。它不仅会提供数据，还会存储数据。
+# Legacy system
+Avatar will have on-chain attributes. Their metadata will be updated according to our Oracle, which is where part of the metadata stored, we are still actively exploring possible optimal solution. Notes: The off-chain elements will likely to be determined by how we set up the Oracle. The Oracle not only feed data but it will also store data.
 
-## Solana 支持的伪身份加密
-对人类而言，一种独立于物理世界的新身份，不是天生的而是选择的。
+# Solana backed encryption of pseudo-identity
+A new identity independent from physical world for human, by choice not by birth.

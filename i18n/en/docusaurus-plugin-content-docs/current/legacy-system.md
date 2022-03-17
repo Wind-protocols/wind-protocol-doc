@@ -1,10 +1,10 @@
 ---
 id: Legacy-System
-title: 传承系统
-sidebar_label: 传承系统
+title: Legacy System
+sidebar_label: Legacy System
 slug: /Legacy-System
 ---
 
- 当你的虚拟化身年龄超过20岁，即可与不同的虚拟化身繁衍后代。 
+Different virtual identities over the age of 20 can produce offspring from each other. 
 
-后代要到 18 岁才会上链，它将作为 NPC 数据存在于 WIND 预言机中。 它将在 WIND 神谕系统中，一旦达到年龄，化身将成为可玩角色，并且有50%的机会出现在母亲或父亲的地址中。不管怎样，成熟的化身要获得有限的自由意志，就需要一个真正的人与之交互。 
+The offspring will not be on the chain until the age of 18, and it will exist as NPC data in the WIND oracle. It will be in the WIND Oracle system. Once it reaches the age, the avatar will become a playable character, and there is a 50% chance that it will appear in the address of the mother or father. In any case, for a mature avatar to obtain limited free will, it needs a real person to interact with it.
