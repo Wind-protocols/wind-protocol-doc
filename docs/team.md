@@ -1,7 +1,7 @@
 ---
 id: Team
-title: 团队介绍
-sidebar_label: 团队介绍
+title: Team 🤖👨🏽‍🔬👨🏽‍💻
+sidebar_label: Team 🤖👨🏽‍🔬👨🏽‍💻
 slug: /Team
 ---
 

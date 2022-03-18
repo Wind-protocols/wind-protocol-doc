@@ -10,9 +10,9 @@ slug: /Community-Question
 ## 如何联系我们？
 [discord](https://discord.gg/WYnUS8Dw)
 
-[telegram中文社区](https://t.me/joinchat/mNxJoJn4p4JhYjU1)
+[telegram中文](https://t.me/joinchat/mNxJoJn4p4JhYjU1)
 
-[telegram英文社区](https://t.me/joinchat/734F6GmJqss2M2Rl)
+[telegram](https://t.me/joinchat/734F6GmJqss2M2Rl)
 
 [twitter](https://twitter.com/windmetaverse)
 

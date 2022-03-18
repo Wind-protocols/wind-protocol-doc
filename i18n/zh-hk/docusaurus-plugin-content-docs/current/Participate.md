@@ -25,7 +25,7 @@ slug: /Participate
 ## 7，點擊頭像，然後點擊「Enter Wind」
 ![EnterWind.png](/img_account_setting/7-EnterWind.png)
 
-## 8，點擊頁面右上角「LANGUAGE」，點擊語言切換ZH（中文），再點擊頁面中部的「驗證」
+## 8， 點擊頁面中部的「驗證」
 ![ChangeLanguage2.gif](/img_account_setting/8-ChangeLanguage2.gif)
 
 ## 9，這裡會出現錢包連接頁面，選擇之前的錢包進行連接

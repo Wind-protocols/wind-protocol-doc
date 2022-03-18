@@ -1,8 +1,8 @@
 ---
-id: ES-concept
-title: 本我化身的设想
-sidebar_label: 本我化身的设想
-slug: /
+id: ES
+title: ES
+sidebar_label: ES
+slug: /ES
 ---
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKAl09h8cF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

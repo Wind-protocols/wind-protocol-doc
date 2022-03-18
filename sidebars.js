@@ -1,23 +1,28 @@
 module.exports = {
   someSidebar: [
     {
-       生态系统: [
-        {Meta: ["Meta"],},
-        {EGO:["EGO",]},
-        {ES:["ES-concept",  "Legacy-System",  "Time-System",],},
-         "WIND-AI",
-         "Nvwa-Oracle",
-         "Entrance-V1",
-         "Entrance-V2",
-         "Avatar-Protocol",
-         "Palace-Marketplace",
+       Welcome: ["Welcome","Team","Token","Map",{Architecture: ["Organization","Protocol"],}],
+       Dapps: ["WIND-AI",
+       "Nvwa-Oracle",
+       "Entrance-V1",
+       "Entrance-V2",
+       "Avatar-Protocol",
+       "Palace-Marketplace",
+      ],
+       Metaverse: [
+        {Avatar: ["Meta","EGO","ES"],},
+        {Metaverse_PC: ["Meta","EGO","ES"] },
+        {EGO_Mobile: ["Meta","EGO","ES"] }, 
+        {Concepts:[ "Legacy-System",  "Time-System",],},
        ],
-       代币经济: ["SOC","Avatar"],
-       发展路线: ["Map"],
-       技术支持: ["Solana","GPT-3","UnrealEngine","Arweave","OtherTec"],
-       新手指南: ["Wallet","Participate","Create"],
-       游戏灵感: ["Technology","Art","Philosophy"],
-       常见问题: ["ALL-Question","Community-Question","Game-Question",],
-       团队介绍: ["Team"],
-    },
-  ],};
+  
+       Guides: ["Wallet","Participate","Create"],
+       
+       
+       About: [
+       {Questions: ["ALL-Question","Community-Question","Game-Question"]},
+       {Tech: ["Solana","GPT-3","UnrealEngine","Arweave","OtherTec"]},
+       {Inspirations: ["Technology","Art","Philosophy"]}
+      ]
+    
+}],};

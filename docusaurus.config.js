@@ -9,27 +9,28 @@ module.exports = {
   organizationName: "Wind-protocol", // Usually your GitHub org/user name.
   projectName: "windmetaverse-docs", // Usually your repo name.
   i18n: {
-    defaultLocale: 'zh-cn',
-    locales: ['zh-cn', 'en','zh-hk'],
+    defaultLocale: 'English',
+    locales: ['English'],
   },themeConfig: {
     colorMode: {
       // "light" | "dark"
-      defaultMode: "dark",
+      defaultMode: "light",
     },navbar: {
       title: "Windmetaverse",
       logo: {
         alt: "windmetaverse logo",
         src: "img/protocollogo.svg",
       },items: [
-        {
-          type: 'localeDropdown',
-          position: "right",
-        },
        
         {
-          href: "https://www.windmetaverse.com/",
-          label: "website",
-          position: "left",
+          href: "https://www.windprotocol.org/",
+          label: "Protocol",
+          position: "right",
+        },
+        {
+          href: "https://www.windmetaverse.come/",
+          label: "Metaverse",
+          position: "right",
         },
       ],
     },footer: {
