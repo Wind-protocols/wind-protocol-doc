@@ -34,7 +34,6 @@ users (用户)，developers (开发者)， creators (创造者), gamers (玩家)
 大家可以去 [官方网站](https://www.windportocol.org) 了解更多。<br />
 
 ## 3.什么是SOC?
-[SOC相关介绍](SOC)
 
 ## 4.Wind是否有资方入场？
 目前 Wind 没有引入 VC，VC 看重于代币模型和PTE的设计，而 Wind 认为过早的引入代币经济模型不利于 Wind 生态的发展。<br />
