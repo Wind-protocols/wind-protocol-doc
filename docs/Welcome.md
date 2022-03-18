@@ -8,21 +8,15 @@ slug: /
 
 ### Shape the future of web3, gaming and blockchain by participating in Wind Protocol.
 
-Wind is Creating an ecosystem encompass projects of gaming,IOTS, gaming Oracles, AI. Wind it's community owned with on-chain governance. 
-Wind started in the mid-2021 as a Solana Hackathon project by Jacheng and grew to a community-owned protocol with over thousands of citizens.  
 
 
-###  The Architecture 
+####  Our core innovative architectures   
+Wind started in the mid-2021 as a Solana Hackathon project by Jacheng and grew to a community-owned protocol with over thousands of citizens. Wind core is reating an ecosystem encompass projects of gaming,IOTS, gaming Oracles, AI. 
 
-## Core↗.  
 
-The core developer of Wind protocol and the implementer of the consensus.
+#### Development and Governance(DevGovernance) 
+Wind it's community owned with on-chain governance. 
 
-## DAO↗.  
 
-The on-chain organization representing Wind's community and vote on consensus.
-
-## Mudeng Lab↗.  
-
-Handling Daily-Ops,VC-Ops of Wind protocol.Establish consensus and make sure it reached across teams on the objects and tasks.
+## 
 

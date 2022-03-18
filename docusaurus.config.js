@@ -28,7 +28,7 @@ module.exports = {
           position: "right",
         },
         {
-          href: "https://www.windmetaverse.come/",
+          href: "https://www.windmetaverse.com/",
           label: "Metaverse",
           position: "right",
         },
