@@ -4,20 +4,20 @@ title: 关于社区
 sidebar_label: 关于社区
 slug: /Community-Question
 ---
-+ [如何联系我们？](#如何联系我们？)
-+ [如何参与社区活动？](#如何参与社区活动？)
++ [How to contact us? ](#How to contact us?)
++ [How to get involved in community activities? ](#How to participate in community activities?)
 
-## 如何联系我们？
-[discord](https://discord.gg/WYnUS8Dw)
+## How to contact us?
+[discord](https://discord.gg/4efcnRzVuS)
 
-[telegram中文](https://t.me/joinchat/mNxJoJn4p4JhYjU1)
+[telegram 中文](https://t.me/joinchat/mNxJoJn4p4JhYjU1)
 
 [telegram](https://t.me/joinchat/734F6GmJqss2M2Rl)
 
 [twitter](https://twitter.com/windmetaverse)
 
-微信公众号搜索：风元宇宙
+WeChat public number search: Wind Universe
 
-## 如何参与社区活动？
-请加入我们的[discord](https://discord.gg/WYnUS8Dw) ，我们将会不定期的举行各种活动。
+## How to participate in community activities?
+Please join our [discord](https://discord.gg/4efcnRzVuS), we will hold various events from time to time.
 
