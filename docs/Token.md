@@ -14,7 +14,7 @@ The supply will be cap at 1 billion SOCs. Once 1 billion SOCs are minted the win
 
 # Who owns it? 
 
-Initially destributed through free-mint and currently 100% by the community.
+The  distribution are no pre-mint, no vc but only free-mint and through proof of work by the community memebers.
 
 # Governance.
   The Wind DAO governs itself via the Solcrystol, the decentralized governance framework that supports the ecosystems of Wind. The DAO follows a proposal process to vote on how the Ecosystem Fund will be distributed earning from Wind native programs to promote a diverse and self-sustaining ecosystem.

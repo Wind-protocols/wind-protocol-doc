@@ -27,7 +27,7 @@ slug: /Map
 ##### 3/12/2022  ☑️  Ego    ⏩ 
 ##### 3/12/2022  ☑️  ES     ⏩ 
 
-## Conectivity
+## Connectivity
 ##### 3/12/2022  ☑️  Entrance 1.0-Meta-Access   ⏩ 
 ##### 3/17/2022  ☑️  Open-source Entrance 1.0-Meta-Access⏩
 ##### 3/20/2022  ☑️  Entrance 2.0

@@ -11,7 +11,7 @@ slug: /
 
 
 ####  Our core innovative architectures   
-Wind started in the mid-2021 as a Solana Hackathon project by Jacheng and grew to a community-owned protocol with over thousands of citizens. Wind core is reating an ecosystem encompass projects of gaming,IOTS, gaming Oracles, AI. 
+Wind started in the mid-2021 as a Solana Hackathon project by Jacheng and grew to a community-owned protocol with over thousands of citizens. Wind core is creating an ecosystem encompass projects of gaming,IOTS, gaming Oracles, AI. 
 
 
 #### Development and Governance(DevGovernance) 
