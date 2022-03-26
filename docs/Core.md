@@ -1,7 +1,7 @@
 ---
 id: Core
-title: Core
-sidebar_label: Core
+title: Core👁
+sidebar_label: Core👁
 slug: /Core
 ---
 

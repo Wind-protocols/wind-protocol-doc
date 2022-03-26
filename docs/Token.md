@@ -14,16 +14,36 @@ The supply will be cap at 1 billion SOCs. Once 1 billion SOCs are minted the win
 
 # Who owns it? 
 
- All the socs are distributed with the principle of for the betterment of the community.There are no pre-mint, no vc rounds or seed rounds. Only free-mint through proof of work by the community memebers.
+ All the socs are distributed with the principle of for the betterment of the community.There are no pre-mint, no vc rounds or seed rounds. Only free-mint through proof of work by the community.
 
-# Governance.
-  The Wind DAO governs itself via the Solcrystol, the decentralized governance framework that supports the ecosystems of Wind. The DAO follows a proposal process to vote on how the Ecosystem Fund will be distributed earning from Wind native programs to promote a diverse and self-sustaining ecosystem.
+# What does it do?
 
-  # Upcoming
+## Vote to govern Wind protocol and decides its future.
+| Type      | Function | vote enhancer |
+| ----------- | ----------- | ----------- |
+| Core👁   | Developing amazing game-chaing Dapps.    | x10 |
+| DAO🐧   | Spreading the message of Wind and participate in consensus voting. | x2 |
+| Mudeng-Lab🧒   |  Handling Daily-Ops,VC-Ops of Wind protocol.Establish consensus and make sure it reached across teams on the objects and tasks. | x5 |
 
-Future usage scenarios include, but are not limited to, governance vote, Marketplace airdrop, metaverse gaming pool.
 
+## Freely distributed to the community and incentive Wind as a whole to advance in the wave of the cyber-renaissance.
+| Type      | Porpotion | Total |
+| ----------- | ----------- | ----------- |
+| Protocol 🧠      | 20%        | 200,000,000 |
+| Palace🏰   |  15%       | 150,000,000 |
+| Wind-AI🤖   | 5%        | 50,000,000 |
+|  Meta🟣   | 10%         | 100,000,000 |
+| Ego🟡   | 10%         | 100,000,000 |
+| Es⚪   | 10%         | 100,000,000 |
+| DAO🐧   | 10%         | 100,000,000 |
+| Core👁   | 10%        | 100,000,000 |
+| Mudeng-Lab🧒   | 10%         | 100,000,000 |
+| Total   | 100%         | 1,000,000,000 |
+
+
+
+  See rewards and governance for detail functions. 
 
   # Next
-
-The mint authority and management of treasury  will be gradually transferred to the Wind DAO and Wind AI.
+#### 1. Publishing Emission schedule.
+#### 2. The mint authority and management of treasury  will be gradually transferred to the Wind DAO and Wind AI.

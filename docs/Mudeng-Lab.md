@@ -1,7 +1,7 @@
 ---
 id: Mudeng-Lab
-title: Mudeng-Lab
-sidebar_label: Mudeng-Lab
+title: Mudeng-Lab🧒
+sidebar_label: Mudeng-Lab🧒
 slug: /Mudeng-Lab
 ---
 
