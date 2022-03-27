@@ -1,6 +1,6 @@
 module.exports = {
   title: "Wind-protocol",
-  tagline: "The metaverse layer of Blockchain",
+  tagline: "The metaverse layer of Web3",
   url: "https://www.windprotocol.org/",
   baseUrl: "/",
   onBrokenLinks: "throw",
@@ -21,6 +21,11 @@ module.exports = {
         alt: "windmetaverse logo",
         src: "img/protocollogo.svg",
       },items: [
+        {
+          href: "Egomobile/",
+          label: "EGO",
+          position: "left",
+        },
        
         {
           href: "https://www.windprotocol.org/",

@@ -5,23 +5,22 @@ sidebar_label: Avatar-protocol🌬
 slug: /Avatar-protocol
 ---
 
-## Avatar-protocol🌬 
+## Avatar-protocol🌬 (0.1)
 
-See detail in the [AvatarConcept].
+#### A conceptual iteration and implementation of metaplex NFTs standard by wind protocol.
+ ### Meta
 
-+ ### Meta
++ Virtual beings dynamically created and stored on-chain. Meta-tier avatars will be at the heart of the Wind protocol. Meta are designed to be module and upgradable by the wind protocol.There will be no cap on the number of Meta-tiers in the foreseeable future, but they require a lot of effort and time to make hence the supply will severely depending on the design and production speed.
 
-+ Virtual personalities dynamically created and stored on-chain. Meta-tier avatars will be at the heart of the Wind protocol. Meta I enjoy constantly updated skins and metadata to stay up to date. There will be no cap on the number of Meta-tiers in the foreseeable future, but they require a lot of effort and time to make.
-
-+ ### Hybrid
+ ### Hybrid
 
 + Hybrid, the best of both worlds. Avatars of hybrids enjoy Wind's AI updates, become your web companions, and will also be able to be used in Wind's other programs to produce other assets. You can travel the world with your Hybrid.
 
-+ ### Ego 
+ ### Ego 
 
-+ The virtualization of desire, the existence of static and perpetual motion. What stands out about the EGO-tier avatar is not its relevance to the Wind protocol or the possibility as a network companion. It emphasizes the unique ability to interact with Es class assets, ownership of their metadata, and the ability to generate other classes of assets.
+ The virtualization of desire, the existence of static and perpetual motion. What stands out about the EGO-tier avatar is not its relevance to the Wind protocol or the possibility as a network companion. It emphasizes the unique ability to interact with Es class assets, ownership of their metadata, and the ability to generate other classes of assets.
 
-+ ### Es 
+ ### Es 
 
 + Combustibles created to satisfy one's instinctual desires. Note that ES series avatars will not be limited to human-based avatars, but also assets.
 

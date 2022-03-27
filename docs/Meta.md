@@ -6,4 +6,4 @@ slug: /Meta
 ---
 # Meta🟣
 
-动态创建并存储在链上的虚拟人格。Meta-tier 化身将是Wind协议的核心。 元我享受不断更新的外观和元数据以保持最新状态。 在可预见的未来，Meta-tier 的数量不会有上限，但它们需要大量的精力和时间来制作。
+Virtualized, personified good beings that are dynamic and stored on-chain. Meta-tier avatars will be at the heart of the Wind protocol. Meta I enjoy constantly updated skins and metadata to stay up to date. There will be no cap on the number of Meta-tiers in the foreseeable future, but they require a lot of effort and time to make.

@@ -26,8 +26,8 @@ The supply will be cap at 1 billion SOCs. Once 1 billion SOCs are minted the win
 | Mudeng-Lab🧒   |  Handling Daily-Ops,VC-Ops of Wind protocol.Establish consensus and make sure it reached across teams on the objects and tasks. | x5 |
 
 
-## Freely distributed to the community and incentive Wind as a whole to advance in the wave of the cyber-renaissance.
-| Type      | Porpotion | Total |
+## Fair launch to incentivize Wind as a whole to advance in the wave of the cyber-renaissance.
+| Type      | Proportion | Total |
 | ----------- | ----------- | ----------- |
 | Protocol 🧠      | 20%        | 200,000,000 |
 | Palace🏰   |  15%       | 150,000,000 |

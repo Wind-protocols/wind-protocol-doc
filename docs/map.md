@@ -6,9 +6,7 @@ slug: /Map
 ---
 ### 2022 Q1(Constant update)
 
-##### Completed——✅ 
-##### About to start——❗ 
-##### Delayed for now——⏩
+##### Complete✅ TBD❗ Developing⏩
  
 
 ## Community 

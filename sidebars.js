@@ -6,14 +6,14 @@ module.exports = {
        Dapps: [
        "Palace-Marketplace",
        "Entrance",
-       "Avatar-protocol",
        "Wind-AI",
        "Wind-Oracle",
       ],
        Metaverses: [
-        {AvatarConcept: ["Meta","EGO","ES"],},
+        {Concepts: {Avatarprotocol:["Avatar-protocol", "Meta","EGO","ES"]},},
+        {Cloud: ["Cloud","Meta","EGO","ES"] },
         {MetaversePC: ["Meta","EGO","ES"] },
-        {EgoMobile: ["Meta","EGO","ES"] }, 
+        {EgoMobile: [ "EGO","Egomobile", "Meta","ES"] }, 
         {OtherConcepts:[ "Legacy-System",  "Time-System",],},
        ],
   

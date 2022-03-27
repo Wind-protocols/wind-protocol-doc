@@ -4,26 +4,23 @@ title: Es⚪
 sidebar_label: Es⚪
 slug: /Es⚪
 ---
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uKAl09h8cF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-## 本我与风元宇宙的关系
-
-本我是参与风元宇宙的一种最普通的通证，你在风元宇宙中的身份完全独立于物理世界，本我可以用各种的形式来丰富你的体验。Wind希望以此让风元宇宙更真实的反应现实世界的有限自由意识。 
-
-## 本我化身
-为了满足一个人的本能慾望而创造的可燃物。请注意， ES系列的化身不会局限于基于人类的化身，也包括资产。
-## 背景设定
-
-来到风元宇宙，你任然没有权力去决定你的化身在中原世界的固有历史/数据。 所有风元宇宙创世纪化身的年龄，血脉，甚至是名字都是已经被风的预言机决定。然而有趣的是，在我们的物理宇宙中人类文明也是如此，婴儿没有选择的权力，每一个人类都像是一个化身，意志/灵魂在没有选择的权力下进入了物理世界的化身。 对于参加风元宇宙创世纪的人们来说，最大的自由无非是在伪随机的方式下找到一个自己喜欢的化身，来参与化身们的元宇宙。 
 
 
 
-## 成熟过程和繁衍
-本我会随之时间逐渐成熟，衰败。这个过程是不可以逆转和改变的。本我的化身年龄超过20岁，即可与不同的虚拟化身繁衍后代。 后代要到 18 岁才会上链，它将作为 NPC 数据存在于 WIND 预言机中。 它将在 WIND 神谕系统中，一旦达到年龄，化身将成为可玩角色，并且有50%的机会出现在母亲或父亲的地址中。不管怎样，成熟的化身要获得有限的意志，就需要一个真正的人与之交互。 
++ Combustibles created to satisfy one's instinctual desires. Note that ES series avatars will not be limited to human-based avatars, but also assets.
 
-本我作为一个种类的链上物质/化身是wind参考人类的物理社会和基于我们的时间和物质而参考。 本我的DNA元数据会根据其父母系的元数据来决定的。后代的显性血脉会根据女方的血脉来决定，小孩的名字会被化身的自由意志/元数据所决定，来最大程度保留这个元宇宙的特殊性和物理社会的距离。同时，在化身未满18岁时，化身的数据只会存在于元宇宙中和风的预言机上，而不会成为一个可以控制的链上资产。化身满了18岁后，他们的灵魂可以被父母上传到风灵殿，来寻找化身的灵魂。
 
-在风元宇宙中，每个化身都有不同的名字、年龄、身份、性别、特征、背景故事、特征……
-凡人化身会面临生死，它会因衰老或者其它致命原因而消失。
+## Es inside the Wind Metaverse 
+
+Es is the most common token for participating in the Wind universe. Your identity in the Wind metaverse is completely independent of the physical world. The Es can enrich your experience in various forms. Wind hopes to Es can realistically reflect the limited freedom consciousness of the real world.
+
+
+## Philosophy
+Combustibles created to satisfy one's instinctual desires. Note that ES series avatars will not be limited to human-based avatars, but also assets.
+
+## Setting
+
+When you come to Wind metaverse, you still have no right to decide the inherent history/data of your incarnation. The ages, bloodlines, and even names of all incarnations have been determined by wind's oracle. Interestingly however, the same is true of human civilization in our physical universe, babies have no power of choice, every human being is like an incarnation, and the will/soul enters the incarnation of the physical world with no power of choice. For those who participated in the creation of the Wind Metaverse, the greatest freedom is nothing more than finding a favorite avatar in a pseudo-random way to participate in the metaverse of the incarnations.
+
+## Reward mechanism
+

@@ -24,12 +24,17 @@ slug: /Palace-Marketplace
 | Other listing |  ⏩      | Listing projects outside of Wind protocol. |
 | Avatar Rental |    ⏩    | Rent your Avatar to other users without giving up your ownership. |
 |  Auction |  ⏩        | Auction with conditions: time,price, etc. |
+| Marketplace data |  ✔️      | floor price, trade count, marketcap|
+| NFTs history data |  ⏩      | historical price, price changes, owner, address|
+| User DID data |  ⏩      | public profile, collections, profile pictures, trade data|
 | Buyers Offer  |  ⏩     | User can offering a negotiated price to a listed NFTs owner. |
 | SOL settlement  |  ✔️        | Buy and sales settled in Solana. |
 | SOC settlement  | ⏩          | Buy and sales settled in Solcrystol. |
 | Sell reward | ⏩         | Get SOC reward by sell your NFTs. |
 | Buy reward   | ⏩          | Get SOC reward by buy others NFTs. |
-| SOC Staking reward  | ⏩       | Stake your SOCs and subjected to a locking period. |
+| Renting reward   | ⏩          | Get SOC reward by rent NFTs. |
+| Lending reward   | ⏩          | Get SOC reward by lend NFTs. |
+| Stake reward  | ⏩       | Stake your SOCs and subjected to a locking period. |
 | NFTs lending   | ⏩       | Lending other assets by collateralize you NFTs |
 | Your suggestions?  | ❓        | Reach out! |
 
