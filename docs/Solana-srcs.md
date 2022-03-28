@@ -30,38 +30,11 @@ https://docs.bonfida.org/collection/overview
 
 # Core concepts of Solana  
 
-+ Account delegation allow users to
-1. users to rent out their avatars to others without giving up the ownership. 
-2. Leverage our league pool systems by speculating on the winners. 
++ [Intereaction overview](https://docs.solana.com/developing/programming-model/overview)
 
-# How does it work?
- Account Delegation is a implented concept of Solana that allows a Owner of a token to delegate part the authority to that Solana account to a different Solana account. 
+An app interacts with a Solana cluster by sending it transactions with one or more instructions. The Solana runtime passes those instructions to programs deployed by app developers beforehand. An instruction might, for example, tell a program to transfer lamports from one account to another or create an interactive contract that governs how lamports are transferred. Instructions are executed sequentially and atomically for each transaction. If any instruction is invalid, all account changes in the transaction are discarded.
 
-Delegation can provide some additional security for more sophisticated key management procedures.
++ [Runtime overview](https://docs.solana.com/developing/programming-model/runtime)
 
-A delegated account _can_, for example:
-
-* Deposit funds
-* Place orders
-* Cancel orders
-
-A delegated account _cannot_, for example:
-
-* Withdraw funds
-* Close the Mango Account
-* Change or remove existing account delegation
-
-A Mango Account can have at most one delegate. The owner of the Mango Account continues to have full control of the Mango Account irrespective of delegation.
-
-Only delegate to an account that you trust. Although delegates cannot withdraw funds, there are some other mechanisms by which they could drain your account. For example, by using your account to make bad trades with their personal account.
-
-### Usage(Mango)
-
-A delegate can be set from the Mango UI via the accounts page, or programatically using either the `mango-explorer` package for Python or the `mango-client` library for JS.
-
-If a Mango Account has been delegated to you, it will appear in the Accounts List in the UI, from where you can select it and perform limited operations as you would with any other account.
-
-* [Mango Explorer Documentation](https://github.com/blockworks-foundation/mango-explorer/blob/main/docs/Delegation.md)
-* [Mango Client Documentation](https://blockworks-foundation.github.io/mango-client-v3/classes/MangoClient.html#setDelegate)
-
+The runtime only permits the owner program to debit the account or modify its data. The program then defines additional rules for whether the client can modify accounts it owns. In the case of the System program, it allows users to transfer lamports by recognizing transaction signatures. If it sees the client signed the transaction using the keypair's private key, it knows the client authorized the token transfer.
 
