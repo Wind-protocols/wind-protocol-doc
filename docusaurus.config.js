@@ -26,6 +26,11 @@ module.exports = {
           label: "EGO",
           position: "left",
         },
+        {
+          href: "Palace-Marketplace/",
+          label: "Palace",
+          position: "left",
+        },
        
         {
           href: "https://www.windprotocol.org/",
