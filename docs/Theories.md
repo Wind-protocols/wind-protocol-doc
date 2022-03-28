@@ -1,8 +1,8 @@
 ---
-id: Technology
-title: 技术思考
-sidebar_label: 技术思考
-slug: /Technology
+id: Theories
+title: Theories
+sidebar_label: Theories
+slug: /Theories
 ---
 ## 人工智能驱动的元宇宙
 元宇宙的化身具有有限的自由意志，使用 GPT-3模仿人类。因此，玩家和化身的代理有限。当玩家登录风元宇宙时，化身由玩家控制。然而，化身被视为与玩家分开的实体。当玩家根据他们的 AI 退出游戏时，它们也会产生影响。例如，阿凡达将决定他们后代的名字。Avatar 将有自己的逻辑，基于我们开发non-reactionary 和 freebound(unlimited) 内存模型。在风元宇宙中由 AI 生成的所有动作都会在 Metaverse 中产生真实的、不可逆转的后果。

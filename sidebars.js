@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: [
     {
-       Welcome: ["Welcome","Token","Map",{Governance: ["DAO", "Core", "Mudeng-Lab", "Wind-AI"]},
+       Welcome: ["Welcome","Token","Map","Litepaper", {Governance: ["DAO", "Core", "Mudeng-Lab", "Wind-AI"]},
        {Rewards: ["Tokenomics","Protocol","Palace-Marketplace","Wind-AI","Meta","EGO", "ES","DAO","Core","Mudeng-Lab"],}],
        Dapps: [
        "Palace-Marketplace",
@@ -17,14 +17,21 @@ module.exports = {
         {OtherConcepts:[ "Legacy-System",  "Time-System",],},
        ],
   
-       Guides: ["Wallet","Participate","Create"],
-       
+       Education: [
+         {Solana101: ["Wallet","Participate","Create"]},
+         {Solana102: ["Account-Delegation","Oracle101","SOL-NFT"]},
+         {Solana103: ["Solana-srcs"]},
+         {Experimental: ["Avatar-protocolV2","NiceDapps"]},
+
+
+       ],
        
        About: [
-       {Questions: ["ALL-Question","Community-Question","Game-Question"]},
+       {Questions: ["ALL-Question","Community-Question","aboutwind"]},
        {Tech: ["Solana","GPT-3","UnrealEngine","Arweave","OtherTec"]},
-       {Inspirations: ["Technology","Art","Philosophy"]},
-       {ProtocolV2: ["Technology","Art","Philosophy"]}
+       {Inspirations: ["Theories","Art","Philosophy"]},
+       {ProtocolV2: ["Theories","Art","Philosophy"]},
+       {Unthinkable: ["bread01"]}
 
       ]
     

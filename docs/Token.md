@@ -30,7 +30,7 @@ The supply will be cap at 1 billion SOCs. Once 1 billion SOCs are minted the win
 | Type      | Proportion | Total |
 | ----------- | ----------- | ----------- |
 | Protocol 🧠      | 20%        | 200,000,000 |
-| Palace🏰   |  15%       | 150,000,000 |
+| Palace🏛️   |  15%       | 150,000,000 |
 | Wind-AI🤖   | 5%        | 50,000,000 |
 |  Meta🟣   | 10%         | 100,000,000 |
 | Ego🟡   | 10%         | 100,000,000 |

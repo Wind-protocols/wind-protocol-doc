@@ -12,11 +12,12 @@
     "description": "The label of footer link with label=Twitter linking tohttps://twitter.com/windmetaverse"
   },
   "link.item.label.Telegram": {
-    "message": "Telegram",
-    "description": "The label of footer link with label=Telegram linking to https://t.me/joinchat/mNxJoJn4p4JhYjU1"
+    "message": "Github",
+    "description": "The label of footer link with label=Telegram linking to https://github.com/Wind-protocols"
   },
   "copyright": {
     "message": "Wind protocol it's open-sourced and community-owned.",
     "description": "The footer copyright"
   }
 }
+

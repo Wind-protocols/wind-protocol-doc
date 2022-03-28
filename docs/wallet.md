@@ -1,7 +1,7 @@
 ---
 id: Wallet
-title: 钱包入门
-sidebar_label: 钱包入门
+title: Wallet
+sidebar_label: Wallet
 slug: /Wallet
 ---
 

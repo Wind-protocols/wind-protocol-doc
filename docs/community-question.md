@@ -1,11 +1,10 @@
 ---
 id: Community-Question
-title: 关于社区
-sidebar_label: 关于社区
+title: About community
+sidebar_label: About community
 slug: /Community-Question
 ---
-+ [How to contact us? ](#How to contact us?)
-+ [How to get involved in community activities? ](#How to participate in community activities?)
+
 
 ## How to contact us?
 [discord](https://discord.gg/4efcnRzVuS)

@@ -29,7 +29,7 @@ slug: /Palace-Marketplace
 | User DID data |  ⏩      | public profile, collections, profile pictures, trade data|
 | Buyers Offer  |  ⏩     | User can offering a negotiated price to a listed NFTs owner. |
 | SOL settlement  |  ✔️        | Buy and sales settled in Solana. |
-| SOC settlement  | ⏩          | Buy and sales settled in Solcrystol. |
+| SOC settlement  | ✔️          | Buy and sales settled in Solcrystol. |
 | Sell reward | ⏩         | Get SOC reward by sell your NFTs. |
 | Buy reward   | ⏩          | Get SOC reward by buy others NFTs. |
 | Renting reward   | ⏩          | Get SOC reward by rent NFTs. |

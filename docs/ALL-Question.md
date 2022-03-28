@@ -1,7 +1,7 @@
 ---
 id: ALL-Question
-title: 问题汇总
-sidebar_label: 问题汇总
+title: ALL-Question
+sidebar_label: ALL-Question
 slug: /ALL-Question
 ---
 

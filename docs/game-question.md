@@ -1,8 +1,8 @@
 ---
-id: Game-Question
-title: 关于 Wind
-sidebar_label: 关于 Wind
-slug: /Game-Question
+id: aboutwind
+title: About Wind
+sidebar_label: About Wind
+slug: /About Wind
 ---
 + [什么是Wind](#1%E4%BB%80%E4%B9%88%E6%98%AFwind)
 + [什么是WindProtocol](#2%E4%BB%80%E4%B9%88%E6%98%AFwindprotocol)

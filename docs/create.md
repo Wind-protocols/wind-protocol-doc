@@ -1,7 +1,7 @@
 ---
 id: Create
-title: 铸造化身
-sidebar_label: 铸造化身
+title: Create
+sidebar_label: Create
 slug: /Create
 ---
 

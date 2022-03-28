@@ -1,7 +1,7 @@
 ---
 id: Philosophy
-title: 哲学灵感
-sidebar_label: 哲学灵感
+title: philosophy
+sidebar_label: philosophy
 slug: /Philosophy
 ---
 
