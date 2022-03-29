@@ -14,7 +14,7 @@ Oracle brings data on-chain. Conventional oracle can publishes continuous real-w
 
 
 
-# How does it work?(Python Oracle )
+# How does it work?(Pyth Oracle )
 
 
 
