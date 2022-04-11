@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/protocollogo.org",
+  favicon: "img/windv2logo.jpeg",
   organizationName: "Wind-protocol", // Usually your GitHub org/user name.
   projectName: "windmetaverse-docs", // Usually your repo name.
   i18n: {
@@ -19,7 +19,7 @@ module.exports = {
       title: "Windmetaverse",
       logo: {
         alt: "windmetaverse logo",
-        src: "img/protocollogo.svg",
+        src: "img/windv2logo.jpeg",
       },items: [
         {
           href: "Egomobile/",
@@ -28,7 +28,7 @@ module.exports = {
         },
         {
           href: "Palace-Marketplace/",
-          label: "Palace",
+          label: "Marketplace",
           position: "left",
         },
        

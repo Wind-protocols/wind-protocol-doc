@@ -30,7 +30,7 @@ module.exports = {
        {Questions: ["ALL-Question","Community-Question","aboutwind"]},
        {Tech: ["Solana","GPT-3","UnrealEngine","Arweave","OtherTec"]},
        {Inspirations: ["Theories","Art","Philosophy"]},
-       {ProtocolV2: ["Theories","Art","Philosophy"]},
+       {ProtocolV2: ["Avatar-protocolV2"]},
        {Unthinkable: ["bread01"]}
 
       ]

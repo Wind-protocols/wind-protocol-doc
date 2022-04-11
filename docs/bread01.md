@@ -44,43 +44,36 @@ of debuggin and spending their time on the better things.
 ## 1.2 Challenges 
 The V1 used many dapp that were rigged systems that's already implemented with some rather fixed intereactive methods. The Wind DAO airdrop it's done so by utilizing [GumDrop] and public minting by [CandyMachinev2] of [Metaplex]. Zdream as the main contributor of the V1 protocol implemented Jacheng's design of Claiming by matching address with the ledger. The GumDrop methods was originally pioneered for token airdrops by Uniswap and ported to Solana by [Saber](https://github.com/saber-hq/merkle-distributor).
 
+## 1.3 Solutions  
+
+To bring a unified ecosystem experience, user needs to see a semi-centralized profile and relevant data on a single portal.  
 
 # 2. Architecture 
 
 ## 2.1 terminologies 
 
-### Wallet: The Solana keypairs that can interact with blockchain. 
-### App: Decentralized applications.
-### Portal: The GUI of a App. 
-### Module: Apps with a Portal that can be interact by wallets.
-### Data: Informations stored in a binary manner.
-### Ledgers: smart-accounting App build on Solana or potentially other blockchain.
-### Functions: what does a app or portal do. 
-### Permissionless GUI: A interface that can use to execute functions with Wallet locally without interact with blockchain.
-### Proxy pair: A password/pubkey(Token) pair that have a limited life-span up to 24 hours.
++  Wallet: The Solana keypairs that can interact with blockchain. 
++ App: Decentralized applications.
++ Portal: The GUI of a App. 
++ Module: Apps with a Portal that can be interact by wallets.
++ Data: Informations stored in a binary manner.
++ Ledgers: smart-accounting App build on Solana or potentially other blockchain.
++ Functions: what does a app or portal do. 
++ Permissionless GUI: A interface that can use to execute functions with + Wallet locally without interact with blockchain.
++ Proxy pair: A password/pubkey(Token) pair that have a limited life-span up to 24 hours.
 
 ## 2.2 App 
 
-+ In theory 
 ### Entrance-V2-on-chain-custody-program
 User can set a up a proxy password/pubkey pair that can be used to login a centralized server for a set amount of time. User needs to pick what's to project and for how long. This will bundle all the assets to the custody program send one transaction to Solana, and create a proxy pair on cognito with the relevant assets. User can claim back their assets when the said condition it's fullfilled. The proxy pair will dissolve once it met its lifespan. 
 ### Entrance-V2-on-chain-reward-pools-program 
 User can deposit fungible-tokens(SOC) to the reward-pool-program with different instructions to rip different rewards. Warning: Based on the instruction, User may lose thier deposit. 
-
-
-+ V2
 ### Palace-on-chain-marketplace-program 
 The escrow program that swap assets when they met pre-conditions.    
-
-+ Legacy
 ### Entrance-V1 
 Set up a proxy password/token pair with using a permissionless GUI. 
-
-
-### 
-
-
-### Harvest  A ledger that can aggregate the rewards from Palace, Entrance and cloud and claimed by user in one transaction.
+### Harvest  
+A ledger that can aggregate the rewards from Palace, Entrance and cloud and claimed by user in one transaction.
 
 
 ## 2.3 modules
@@ -91,12 +84,8 @@ A permissionless GUI with Palace on-chain-program.
 A  Permissionless GUI that player can intereact with their NFTs in 3D. 
 #### DAO
 A  Permissionless GUI that player can govern Wind DAO. 
-
-
-
-
-
-#### Harvest: The ledger app that record all the rewards by Cloud, Palace, DAO and entrance. It automatically deduct and adding the 
+#### Harvest
+The ledger app that record all the rewards by Cloud, Palace, DAO and entrance. It automatically deduct and adding the 
 
 ## 2.3 modules
 
