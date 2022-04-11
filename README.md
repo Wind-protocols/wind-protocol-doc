@@ -20,6 +20,12 @@ yarn run build
 yarn run serve
 ```
 
-## BBCC88
+## Doc PATH
 
-English Doc Path : i18n/en/docusaurus-plugin-content-docs/current/xxx.md
+```console
+Chinese CN DOC: /docs
+Chinese HK DOC: i18n/zh-hk/docusaurus-plugin-content-docs/current
+English DOC   : i18n/en/docusaurus-plugin-content-docs/current
+```
+
+## BBCC88
