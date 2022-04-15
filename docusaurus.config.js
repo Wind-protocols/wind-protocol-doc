@@ -7,7 +7,7 @@ module.exports = {
   onBrokenMarkdownLinks: "warn",
   favicon: "img/windv2logo.jpeg",
   organizationName: "Wind-protocol", // Usually your GitHub org/user name.
-  projectName: "windmetaverse-docs", // Usually your repo name.
+  projectName: "wind-document", // Usually your repo name.
   i18n: {
     defaultLocale: 'English',
     locales: ['English'],
