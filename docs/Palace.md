@@ -7,7 +7,7 @@ slug: /Palace-Marketplace
 
 # Marketplace🏛️
 ### A decentralize, permissionless marketplace build by wind core for wind Metaverse and other Metaverses. 
-
+ 
 
 # Program address 
 
