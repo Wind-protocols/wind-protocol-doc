@@ -32,16 +32,16 @@ module.exports = {
           position: "left",
         },
        
-        {
-          href: "https://www.windprotocol.org/",
-          label: "Protocol",
-          position: "right",
-        },
-        {
-          href: "https://www.windmetaverse.com/",
-          label: "Metaverse",
-          position: "right",
-        },
+          // {
+          //   href: "https://www.windprotocol.org/",
+          //   label: "Protocol",
+          //   position: "right",
+          // },
+          // {
+          //   href: "https://www.windmetaverse.com/",
+          //   label: "Metaverse",
+          //   position: "right",
+          // },
       ],
     },footer: {
       style: "dark",
