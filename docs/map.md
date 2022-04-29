@@ -1,50 +1,30 @@
 ---
 id: Map
-title: Roadmap 🗺
-sidebar_label: Roadmap 🗺
+title: Mind map(072021-022022)
+sidebar_label: Mind map V1 ✅ 
 slug: /Map
 ---
-### 2022 Q1(Constant update)
 
-##### Complete✅ TBD❗ Developing⏩
- 
 
-## Community 
-###  SOC Airdrop!
-##### 3/12/2022(etc)  ☑️  All citizens ✅  
-### Meta Vahara
-##### 3/13/2022  ☑️  Meta Vahara AMA ✅        
-### Flowering time
-##### 3/12/2022  ☑️  ES/EGOmixed pool ⏩ 
-##### 3/14/2022  ☑️  Meta pool   ⏩       
-##### 3/17/2022  ☑️  Metaseed pool  ⏩   
+#####  Wind has been building on solana since 2021. Before the launching of the V2 wind has already delivered many cornerstone projects. See our [*Ignition Submission*](https://devpost.com/software/wind-7dj2r5) from July 2021.
 
-## Native programs
-## Avatar protocol 
-##### 3/12/2022  ☑️  Meta   ⏩ 
-##### 3/12/2022  ☑️  Ego    ⏩ 
-##### 3/12/2022  ☑️  ES     ⏩ 
+### PROJECTS 
+We have been always been building first.
+* [**Entrance**](https://github.com/Wind-protocols/Entrance) Login into your UE-powered multiplayer-game with your NFT. 
+* [**Windmetaverse**](https://twitter.com/BBCC88Trader/status/1500051704540065797) A PC multiplayer-game with our genesis avatar.
+* [**Solpalace**](https://github.com/Wind-protocols/Entrance) A web app that has minting ability and checking the info of your avatar.
+* [**EGO-Alpha**](https://wind-document.vercel.app/Egomobile/)The unique mobile multiplayer FPS experience designed to be competitive, fun and exciting. Player can earn rewards by participating in the daily winning pool or by using assets with properties of reward multiplier.
+* [**Wind-AI**](https://wind-document.vercel.app/Egomobile/) A GPT-powered AI that have basic understanding of self and about to communicate with Solana. Production inside a **UE** **Discord** and **Web** environments. 
+* [**WindBoo**](https://wind-document.vercel.app/Egomobile/) A web frontend to intereact with your avatar and its ai.
 
-## Connectivity
-##### 3/12/2022  ☑️  Entrance 1.0-Meta-Access   ⏩ 
-##### 3/17/2022  ☑️  Open-source Entrance 1.0-Meta-Access⏩
-##### 3/20/2022  ☑️  Entrance 2.0
-## Marketplace
-##### 3/15/2022  ☑️  Palace Alpha  ⏩  
-##### 3/15/2022  ☑️  Meta-Staking  ⏩
-##### 3/20/2022  ☑️  Ego-Earning  ⏩
-## Metaverses
-##### 3/20/2022  ☑️  Metaverse-PC  
-##### 3/15/2022  ☑️  EGO-mobile community test  ⏩
-##### 3/17 2022  ☑️  Wind portal V2 -3D(interact with your Avatar's 3D character)-Explore(see the whole collection)-Assets classification(EGO,ES,META,OTHERS)   ⏩
-## Wind-AI
-##### 3/19/2022  ☑️  Kokai Project
-##### 3/19/2022  ☑️  Meta-minds   
-##### 3/19/2022  ☑️  Hybrid-minds   
 
-## Wind-DAO
-##### 3/13/2022  ☑️  Meta Vahara ✅   
-##### 3/16/2022  ☑️  Governance-8SOL ⏩ 
-##### 3/13/2022  ☑️  Development check
-##### Update every Saturday UTC+8
+### COMMUNITY 
+Build a Strong and active core Wind Community by
+
+1. **Airdrop** 1.1 million SOC to 350+ active community members based on proof of work weekly.
+
+2. **Hosting** weekly Discord townhall including one inside Windmetaverse V1.     
+
+3. **Free Mint** of avatars with SOC. 
+
 

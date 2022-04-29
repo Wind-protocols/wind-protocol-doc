@@ -1,7 +1,7 @@
 module.exports = {
   someSidebar: [
     {
-       Welcome: ["Welcome","Token","Map","Litepaper", {Governance: ["DAO", "Core", "Mudeng-Lab", "Wind-AI"]},
+       Welcome: ["Welcome","Token", {Mindmap: ["Map", "Map2"]},"Litepaper", {Governance: ["DAO", "Core", "Mudeng-Lab"]},
        {Rewards: ["Tokenomics","Protocol","Palace-Marketplace","Wind-AI","Meta","EGO", "ES","DAO","Core","Mudeng-Lab"],}],
        Dapps: [
        "Palace-Marketplace",
