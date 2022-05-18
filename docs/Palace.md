@@ -1,18 +1,19 @@
 ---
-id: Palace-Marketplace
-title: Marketplace🏛️
-sidebar_label: Marketplace🏛️
-slug: /Palace-Marketplace
+id: S0L
+title: S0L
+sidebar_label: S0L
+slug: /S0l
 ---
 
-# Marketplace🏛️
+# S0L it's a Marketplace🏛️
 ### A decentralize, permissionless marketplace build by wind core for wind Metaverse and other Metaverses. 
  
 
 # Program address 
 
-####  devnet program address:  8pbdE2sZbfsYNkifQbPTHcVLNRCLnkNKLMZVHnCkQGMa
-####  mainnet-beta program address: 
+####  devnet programId:  8pbdE2sZbfsYNkifQbPTHcVLNRCLnkNKLMZVHnCkQGMa
+####  testnet programId:  Bxn9FgSpM4xWuwQcAYXqGq9nq5sGNnQLeJ2HbpQKKmJR
+####  mainnet-beta programId: 
 
 ## Reward allocation 
 
@@ -20,8 +21,20 @@ slug: /Palace-Marketplace
 
 ## Roadmap 
 
-This page has been migrated. 
-Please go to marketplace'own documents for more detail.
+V1 
+Core Functions: Instant buy/sale and Launchpad with base reward. 
+
+1. Testnet open Beta May 2022 
+2. Mainnet Beta June 2022
+
+V2 
+Core Functions: Auction, NFT AMM bot, Solicited Offer , live chat. Reward V2. 
+
+1. Testnet open Beta August 2022 
+2. Mainnet Beta September 2022
+
+V3  
+
 
 ### Acknowledgement 
 

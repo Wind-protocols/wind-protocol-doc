@@ -27,8 +27,8 @@ module.exports = {
           position: "left",
         },
         {
-          href: "Palace-Marketplace/",
-          label: "Marketplace",
+          href: "S0L/",
+          label: "S0L",
           position: "left",
         },
        

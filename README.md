@@ -19,7 +19,3 @@ yarn run build
 
 yarn run serve
 ```
-
-## BBCC88
-
-English Doc Path : i18n/en/docusaurus-plugin-content-docs/current/xxx.md
